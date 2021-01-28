@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-Hi, I am Jose
+Hello, my name is Jose Barbosa
     </div>
   )
 }
